@@ -2,7 +2,7 @@
 
 <img src='https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=Victor%20Griffo&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20%C2%B7%20Dados%20%C2%B7%20Automa%C3%A7%C3%A3o&descAlignY=58&descSize=20&animation=fadeIn' width='100%' alt='header'/>
 
-<a href='https://github.com/SitesVictor'><img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&height=45&lines=Estagi%C3%A1rio+de+Controladoria+%40+Samarco;Transformando+dados+em+decis%C3%B5es;Power+BI+%C2%B7+Automa%C3%A7%C3%A3o+%C2%B7+IA+aplicada;Fazendo+jogos+e+ferramentas+nas+horas+vagas' alt='Typing SVG'/></a>
+<a href='https://github.com/SitesVictor'><img src='https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=720&height=45&lines=Estagi%C3%A1rio+de+Controladoria+%40+Samarco;Transformando+dados+em+decis%C3%B5es;Power+BI+%C2%B7+Automa%C3%A7%C3%A3o+%C2%B7+IA+aplicada' alt='Typing SVG'/></a>
 
 <br/>
 
@@ -29,13 +29,13 @@ local     -> Espírito Santo, Brasil
 
 victor@github:~$ ./foco.sh
 > Power BI, SAP Analytics Cloud e IA aplicada a processos
-> Jogos e sites feitos do zero
+> Sites e ferramentas feitos do zero
 ```
 
 ## 🛠️ Stack
 
 <p align='center'>
-  <img src='https://skillicons.dev/icons?i=html,css,js,ts,cs,nodejs,threejs,powerbi,git,github,vscode&theme=dark'/>
+  <img src='https://skillicons.dev/icons?i=html,css,js,ts,cs,nodejs,powerbi,git,github,vscode&theme=dark'/>
 </p>
 
 ## 📊 Estatísticas
@@ -56,11 +56,9 @@ victor@github:~$ ./foco.sh
 ## 🚀 Projetos em destaque
 
 <p align='center'>
-  <a href='https://github.com/SitesVictor/ashborne'><img src='https://github-readme-stats.vercel.app/api/pin/?username=SitesVictor&repo=ashborne&theme=tokyonight&hide_border=true'/></a>
   <a href='https://github.com/SitesVictor/ConsultasUvv'><img src='https://github-readme-stats.vercel.app/api/pin/?username=SitesVictor&repo=ConsultasUvv&theme=tokyonight&hide_border=true'/></a>
 </p>
 
-- **Ashborne**: RPG 3D de exploração com combate por turnos, feito em TypeScript
 - **Solo Seguro**: projeto de agricultura inteligente com IoT, apresentado na InovaWeek da UVV
 - **Sites e ferramentas em HTML/CSS**: veja os repositórios fixados abaixo
 
